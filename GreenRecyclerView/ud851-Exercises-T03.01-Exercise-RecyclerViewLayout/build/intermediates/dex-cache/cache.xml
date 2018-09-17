@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/carlosughini/Desktop/ud851-Exercises-T03.01-Exercise-RecyclerViewLayout/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/carlosughini/Desktop/ud851-Exercises-T03.01-Exercise-RecyclerViewLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.4.0_a73236494fd0c33404cf29e2fbcebdae24a553df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/carlosughini/Desktop/ud851-Exercises-T03.01-Exercise-RecyclerViewLayout/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="/Users/carlosughini/Desktop/ud851-Exercises-T03.01-Exercise-RecyclerViewLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.4.0_1ec5b8746852c878d1dbe53046ad305b9b94cd21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/carlosughini/Desktop/ud851-Exercises-T03.01-Exercise-RecyclerViewLayout/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="/Users/carlosughini/Desktop/ud851-Exercises-T03.01-Exercise-RecyclerViewLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.4.0_9ea6e9ec222262e91a723cdfa630a0dcb395762a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/carlosughini/Desktop/ud851-Exercises-T03.01-Exercise-RecyclerViewLayout/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="/Users/carlosughini/Desktop/ud851-Exercises-T03.01-Exercise-RecyclerViewLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.4.0_da181fc4f1a8790dbefc013596cb9732fc4f362c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/carlosughini/Desktop/ud851-Exercises-T03.01-Exercise-RecyclerViewLayout/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="/Users/carlosughini/Desktop/ud851-Exercises-T03.01-Exercise-RecyclerViewLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.4.0_82566dc0e76984db64430f58884865392ba7c87a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/carlosughini/Desktop/ud851-Exercises-T03.01-Exercise-RecyclerViewLayout/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="/Users/carlosughini/Desktop/ud851-Exercises-T03.01-Exercise-RecyclerViewLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.4.0_62044ab6b808127f4a0b51f6e08cde5633b7c04c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/carlosughini/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.4.0/f6a2fc748ae3769633dea050563e1613e93c135e/support-annotations-25.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="/Users/carlosughini/Desktop/ud851-Exercises-T03.01-Exercise-RecyclerViewLayout/app/build/intermediates/pre-dexed/debug/support-annotations-25.4.0_0e35e8283d4b46684334be3100e10a567791f9e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/carlosughini/Desktop/ud851-Exercises-T03.01-Exercise-RecyclerViewLayout/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="/Users/carlosughini/Desktop/ud851-Exercises-T03.01-Exercise-RecyclerViewLayout/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.4.0_3dc80f31d0e9b859fecb4ec06d76e2754a2f21a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/carlosughini/Desktop/ud851-Exercises-T03.01-Exercise-RecyclerViewLayout/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="/Users/carlosughini/Desktop/ud851-Exercises-T03.01-Exercise-RecyclerViewLayout/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.4.0_4fa4be0e960881dc99e5bf04a9a1862935176483.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/carlosughini/Desktop/ud851-Exercises-T03.01-Exercise-RecyclerViewLayout/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="/Users/carlosughini/Desktop/ud851-Exercises-T03.01-Exercise-RecyclerViewLayout/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.4.0_52b0f8a7a0865995751cd572140ea74253616ef0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/carlosughini/Desktop/ud851-Exercises-T03.01-Exercise-RecyclerViewLayout/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1e0cd070d7cf659ece90e919bff76e7ddc32532">
+        <dex dex="/Users/carlosughini/Desktop/ud851-Exercises-T03.01-Exercise-RecyclerViewLayout/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.4.0_ab5d52affd790a6fdf95747bfe4e31b97cca108a.jar" />
+    </item>
+
+</items>
